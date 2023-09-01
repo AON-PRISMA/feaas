@@ -1,0 +1,13 @@
+sentence-transformers
+python-socketio==4.6.0
+flask-socketio==4.3.2
+werkzeug==2.0.3
+python-engineio==3.14.2
+flask==2.0.3
+eventlet
+cryptography
+torch==1.11.0
+recordlinkage
+numpy
+pandas
+tqdm

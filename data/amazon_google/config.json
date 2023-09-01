@@ -1,0 +1,10 @@
+{
+  "server_addr": "127.0.0.1:8000",
+  "client_addr": "127.0.0.1:7000",
+  "th": 118,
+  "rep": 1,
+  "lsh_rep": 10,
+  "lsh_num_ind": 3,
+  "lsh_num_bin": 16,
+  "num_bits": 32
+}

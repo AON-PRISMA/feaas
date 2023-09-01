@@ -1,0 +1,8 @@
+{
+  "data_name": "ag",
+  "model_name": "all-distilroberta-v1",
+  "ckpt_path": "../data/amazon_google/model.pth",
+  "num_interval": 8,
+  "ratio": 1,
+  "bs": 512
+}
